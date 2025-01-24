@@ -15,8 +15,11 @@ Finally, run
 You must format the csv file as
 
 v11 v12 v13 ... v1n
+
 v21 v22 v23 ... v2n
+
 ...
+
 vm1 vm2 vm3 ... vmn
 
 
